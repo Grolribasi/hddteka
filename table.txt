@@ -1,0 +1,25 @@
+<table width=100% border=1>
+<tr align=center>
+<td>
+<a href=multi.teka.html>Мультфильмы </a>
+</td>
+<td>
+<a href=books.html>Книги </a>
+</td>
+<td>
+<a href=audiobooks.html>Аудиокниги </a>
+</td>
+<td>
+<a href=music.html>Музыка </a>
+</td>
+<td>
+<a href=filter.html>Фильтры </a>
+</td>
+<td>
+<a href=disks.html>Диски </a>
+</td>
+<td>
+<a href=order.html>Порядок </a>
+</td>
+</tr>
+</table>
